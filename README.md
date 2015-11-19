@@ -10,3 +10,5 @@ Später sollen noch folgende Punkte hinzukommen:
     - Spannung / Strom Überwachung
     - Touchscreen (nice to have)
     - Alarm / Blinken
+
+weitere Details gibt es hier: http://blog.buyenne.com/?p=218885
